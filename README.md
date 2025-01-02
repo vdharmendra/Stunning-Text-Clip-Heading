@@ -34,6 +34,7 @@ This project demonstrates how to create dynamic and engaging Text Clip Heading R
 <img style="width:350px;" src="./UI_UX_Layout_Design.png" alt="" /></a>
 <br />
 <span>Cover Design</span>
+<br />
 <a href="https://www.behance.net/gallery/215915779/Text-Clip-Heading-Reveal-Animation" target="_blank">
 <img style="width:350px;" src="./cover_design.png" alt="" /></a>
 <br />
